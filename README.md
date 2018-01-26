@@ -8,6 +8,3 @@
 * Perform normal installation
 
 Subsequently you can just type `make launch` to open  
-
-Can prob do this with vagrant too, but hey....
-
